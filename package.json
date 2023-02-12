@@ -1,0 +1,28 @@
+{
+  "name": "chatgpt_qa_test",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinZap/chatgpt_qa_test.git"
+  },
+  "keywords": [
+    "chat",
+    "gpt"
+  ],
+  "author": "zap",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LinZap/chatgpt_qa_test/issues"
+  },
+  "homepage": "https://github.com/LinZap/chatgpt_qa_test#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.1.0"
+  }
+}
